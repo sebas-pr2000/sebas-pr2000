@@ -1,4 +1,13 @@
-    
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
 body{ 
 margin: 0;
 padding: 0;
@@ -123,7 +132,7 @@ main .main-buttons button{
     margin-right: 15px;
 }
 main .main-buttons button:hover{
-    border: 1px solid ##dadce0;
+    border: 1px solid #dadce0;
     box-shadow: 0 1px 1px #000001;
     color: #222;
 }
