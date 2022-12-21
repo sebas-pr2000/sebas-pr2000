@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sebaslkjh@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Eqpr9zgwE7207Dzme4MTMnF-Z439yGx4/view?usp=share_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1tefFJeC8yThjWAtSwwojE9QEQ1grQHwS/view?usp=share_link)
 
 - 🙋‍♂️About-Me **I am a developer starting his work path in the industry, I have the ability to learn easily and adapt to changes, I want to offer my knowledge and my work to a company that gives me the opportunity to demonstrate it.**
 
